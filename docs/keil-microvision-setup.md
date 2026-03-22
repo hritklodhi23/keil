@@ -1,6 +1,6 @@
-# Keil MicroVision setup (match the lecture)
+# Keil µVision setup (match the lecture)
 
-This guide helps you configure **Keil MicroVision** to match the layout and target options shown in the lecture.
+This guide helps you configure **Keil µVision** to match the layout and target options shown in the lecture.
 If you see a setting in the video that is different in your IDE, update it to match using the steps below.
 
 ## 1) Install required device packs
@@ -42,7 +42,7 @@ Open **Project → Options for Target** and adjust these tabs to match the lectu
 - **Use**: Select the same debug driver (e.g., **Simulator**, **ST‑Link**, **ULINK**)
 - **Settings**: Match the lecture’s debug settings
 
-## 4) Match the MicroVision layout (windows/toolbars)
+## 4) Match the µVision layout (windows/toolbars)
 The lecture typically shows these panels open. Enable them if missing:
 
 - **View → Project Window**
