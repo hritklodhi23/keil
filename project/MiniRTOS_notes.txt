@@ -1,0 +1,21 @@
+; ============================================================================
+; Mini RTOS – Keil MDK Project File (uvprojx)
+;
+; This XML file describes the Keil MDK project structure for the Mini RTOS.
+; It targets the STM32F103C8T6 (ARM Cortex-M3, 72 MHz, 64 KB Flash, 20 KB RAM).
+;
+; HOW TO USE
+; ----------
+; 1. Open Keil MDK (µVision 5).
+; 2. File → Open → navigate to this file (MiniRTOS.uvprojx).
+; 3. The project opens with all source files pre-configured.
+; 4. Click "Build" (F7) to compile.
+; 5. Click "Download" (F8) to flash to your Blue Pill.
+;
+; NOTES
+; -----
+; - If the STM32F1xx device pack is not yet installed, Keil will prompt you
+;   to install it automatically (requires internet connection).
+; - The scatter/linker file is embedded in the project settings below;
+;   no external .sct file is required.
+; ============================================================================
